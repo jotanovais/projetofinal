@@ -4,10 +4,6 @@
 
 O Project Manager é um site voltado para organização e supervisão dos alunos, tendo a visão do aluno para as demandas e cronograma, e o professor tendo visão das entregas e atividades pendentes por parte do aluno.
 
-`<CodeProject>`[Development of a Tool to Support the 360 Feedback Process in Workgroups Using Vue.js and Firebase DBaaS](https://www.codeproject.com/Articles/5272992/Development-of-a-Tool-to-Support-the-360-Feedback "Development of a Tool to Support the 360 Feedback Process in Workgroups Using Vue.js and Firebase DBaaS")
-
-`<ResearchGate>`[Development of a Tool to Support the 360 Feedback Process in Workgroups Using Vue.js and Firebase DBaaS](https://www.researchgate.net/publication/342852151_Development_of_a_Tool_to_Support_the_360_Feedback_Process_in_Workgroups_Using_Vuejs_and_Firebase_DBaaS "Development of a Tool to Support the 360 Feedback Process in Workgroups Using Vue.js and Firebase DBaaS")
-
 ## 2. Especificação Funcional
 
 Os usuários devem ser previamente cadastrados, tendo dois tipos de cadastros, sendo o de aluno e professor, podendo então realizar o acesso ao dashboard, os alunos terão o cronograma de suas matérias e atividades.
