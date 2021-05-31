@@ -8,7 +8,7 @@ O Project Manager é um site voltado para organização e supervisão dos alunos
 
 Os usuários devem ser previamente cadastrados, tendo dois tipos de cadastros, sendo o de aluno e professor, podendo então realizar o acesso ao dashboard, os alunos terão o cronograma de suas matérias e atividades.
 
-![](https://www.codeproject.com/KB/applications/5272992/use_case_diagram.jpg)
+![](https://github.com/jotanovais/projetofinal/blob/main/UseCase.png)
 
 ##### Lista de Usuários
 
