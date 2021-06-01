@@ -1,5 +1,4 @@
-# projetofinal# Feedback_360<sup>oTool
-
+# ProjetoFinal# ProjectManager
 ## 1. Apresentação
 
 O Project Manager é um site voltado para organização e supervisão dos alunos, tendo a visão do aluno para as demandas e cronograma, e o professor tendo visão das entregas e atividades pendentes por parte do aluno.
